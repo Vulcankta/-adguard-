@@ -69,4 +69,3 @@ huya.com###player-gift-wrap
 0.0.0.0 api.installer.xiaomi.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!vikacg
 vikacg.com##.text-center, .card, .mb-2
-vikacg.com##.text-center, .post-title
