@@ -68,4 +68,4 @@ huya.com###player-gift-wrap
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 api.installer.xiaomi.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!vikacg
-vikacg.com##.text-center, .card, .mb-2
+vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.three-column.post-container > div.three-column-middle:first-child > div.card.mb-2:first-child > div.single-article.p-0 > div:first-child > div.p-4.pt-2:last-child > div.entry-header:first-child > div.text-center.post-title:nth-child(2)
