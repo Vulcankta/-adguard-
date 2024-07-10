@@ -67,3 +67,5 @@ huya.com###player-gift-wrap
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 api.installer.xiaomi.com
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!vikacg
+vikacg.com##.text-center, .card, .mb-2
