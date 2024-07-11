@@ -73,3 +73,4 @@ vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div > div.
 vikacg.com###app > div:last-child > div.container:first-child > div.row > div.col-lg-12.mx-auto > div.text-center:last-child
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.card.mb-2:first-child
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.mb-2.card:nth-child(2)
+vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.card.mb-2:nth-child(4)
