@@ -76,3 +76,4 @@ vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-c
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.card.mb-2:nth-child(4)
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.mb-2.card:nth-child(6)
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.card:nth-child(10)
+vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.three-column > div.three-column-middle:last-child > div.text-center:nth-child(2)
