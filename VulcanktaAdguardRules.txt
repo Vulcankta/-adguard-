@@ -75,3 +75,4 @@ vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.card.m
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.mb-2.card:nth-child(2)
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.card.mb-2:nth-child(4)
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.mb-2.card:nth-child(6)
+vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.text-center.card:nth-child(10)
