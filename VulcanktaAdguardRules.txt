@@ -71,3 +71,4 @@ huya.com###player-gift-wrap
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.three-column.post-container > div.three-column-middle:first-child > div.card.mb-2:first-child > div.single-article.p-0 > div:first-child > div.p-4.pt-2:last-child > div.entry-header:first-child > div.text-center.post-title:nth-child(2)
 vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div > div.text-center.card.mb-2:first-child
 vikacg.com###app > div:last-child > div.container:first-child > div.row > div.col-lg-12.mx-auto > div.text-center:last-child
+vikacg.com###app > div:last-child > div.container.mt-5:nth-child(3) > div.card.mb-2:first-child
